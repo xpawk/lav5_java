@@ -1,0 +1,9 @@
+org/example/Shape.class
+org/example/Triangle.class
+org/example/ShapeDescriber.class
+org/example/services/ShapeService.class
+org/example/ShapeDAO.class
+org/example/MainApplication.class
+org/example/Rectangle.class
+org/example/repositories/ShapeRepository.class
+org/example/Color.class
